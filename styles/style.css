@@ -45,3 +45,17 @@ img.cmon {
     padding: 20px;
     border-radius: 10px;
 }
+.ehktu {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    max-width: 50%; /* Adjust the image width as needed */
+    margin-right: 20px; /* Add space between image and text */
+}
+
+.info {
+    font-size: 50px; /* Set the paragraph font size */
+
+}
