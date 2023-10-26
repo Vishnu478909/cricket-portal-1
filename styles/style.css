@@ -113,3 +113,8 @@ img.cmon {
     font-weight: bolder;
 
 }
+.loop{
+    position: relative;
+    font-size: 24px;
+    font-weight: bolder;
+}
